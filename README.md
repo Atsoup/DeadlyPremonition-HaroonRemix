@@ -36,7 +36,7 @@ If the game ever crashes, a "SEND THIS TO DEVELOPER" zip appears on your Desktop
 - Fewer hitches when opening the pause menu, item pages and map; no stutter without a controller connected.
 - Optional Vulkan renderer: smoother pacing, less input lag, less memory.
 - Up to 4K with supersampling, SMAA, ambient occlusion and sharper shadows.
-- Native HDR10 output for HDR TVs (Setup > HDR), tunable while you play.
+- Experimental HDR output (off by default; RTX HDR is recommended for now).
 - Optional HD interface packs up to 8K, each part switchable.
 - HD rumble for Xbox-style controllers: engine hum, crash thumps, a kick for every shot.
 - Built on UltimateFIXDP, so you also get its full town map with waypoints, photo mode, DualSense support, modern aiming and more (press F10 in game).
